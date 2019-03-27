@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloworldApplication",
+            "request": "launch",
+            "mainClass": "br.pucrs.helloworld.HelloworldApplication",
+            "projectName": "helloworld"
+        }
+    ]
+}
