@@ -6,10 +6,10 @@ import org.springframework.web.bind.annotation.RestController;
 import reactor.core.publisher.Mono;
 
 @RestController
-public class helloworld{
+public class HelloWorld{
  
 @GetMapping("/hello")
- public Mono<String> HelloWorld(){
+ public Mono<String> helloworld(){
      return Mono.just("Hello World!");
  }
 }
