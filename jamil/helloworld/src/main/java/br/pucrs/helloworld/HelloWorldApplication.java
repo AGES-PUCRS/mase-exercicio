@@ -6,10 +6,10 @@ import org.springframework.web.reactive.config.EnableWebFlux;
 
 @EnableWebFlux
 @SpringBootApplication
-public class HelloworldApplication {
+public class HelloWorldApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HelloworldApplication.class, args);
+		SpringApplication.run(HelloWorldApplication.class, args);
 	}
 
 }
